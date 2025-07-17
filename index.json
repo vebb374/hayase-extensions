@@ -7,9 +7,10 @@
     "type": "torrent",
     "accuracy": "medium",
     "ratio": 0,
-    "media": "sub",
+    "media": "both",
     "languages": [
-      "US"
+      "US",
+      "JP"
     ],
     "icon": "https://nyaa.si/static/favicon.png",
     "update": "gh:vebb374/hayase-extensions",
@@ -23,9 +24,10 @@
     "type": "torrent",
     "accuracy": "medium",
     "ratio": 0,
-    "media": "sub",
+    "media": "both",
     "languages": [
-      "US"
+      "US",
+      "JP"
     ],
     "icon": "https://sukebei.nyaa.si/static/favicon.png",
     "update": "gh:vebb374/hayase-extensions",
