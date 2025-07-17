@@ -1,47 +1,34 @@
 [
   {
-    "name": "Seadex",
-    "id": "seadex",
-    "version": "0.0.2",
+    "name": "Nyaa.si",
+    "id": "nyaasi",
+    "version": "1.0.0",
     "type": "torrent",
-    "accuracy": "high",
+    "accuracy": "medium",
     "ratio": 0,
-    "media": "sub",
+    "media": "both",
     "languages": [
-      "US"
+      "US",
+      "JP"
     ],
-    "icon": "https://releases.moe/favicon.png",
+    "icon": "https://nyaa.si/static/favicon.png",
     "update": "gh:hayase-app/extensions",
-    "code": "gh:hayase-app/extensions/seadex"
+    "code": "gh:hayase-app/extensions/nyaasi"
   },
   {
-    "name": "AnimeTosho",
-    "id": "animetosho",
-    "version": "0.0.3",
+    "name": "Sukebei Nyaa",
+    "id": "sukebei-nyaa",
+    "version": "1.0.0",
     "type": "torrent",
-    "accuracy": "high",
+    "accuracy": "medium",
     "ratio": 0,
-    "media": "sub",
+    "media": "both",
     "languages": [
-      "US"
+      "US",
+      "JP"
     ],
-    "icon": "https://animetosho.org/inc/favicon.ico",
+    "icon": "https://sukebei.nyaa.si/static/favicon.png",
     "update": "gh:hayase-app/extensions",
-    "code": "gh:hayase-app/extensions/animetosho"
-  },
-  {
-    "name": "AnimeTosho",
-    "id": "animetosho-nzb",
-    "version": "0.0.2",
-    "type": "nzb",
-    "accuracy": "high",
-    "ratio": 0,
-    "media": "sub",
-    "languages": [
-      "US"
-    ],
-    "icon": "https://animetosho.org/inc/favicon.ico",
-    "update": "gh:hayase-app/extensions",
-    "code": "gh:hayase-app/extensions/animetosho-nzb"
+    "code": "gh:hayase-app/extensions/sukebei-nyaa"
   }
 ]
