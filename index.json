@@ -12,8 +12,8 @@
       "JP"
     ],
     "icon": "https://nyaa.si/static/favicon.png",
-    "update": "gh:hayase-app/extensions",
-    "code": "gh:hayase-app/extensions/nyaasi"
+    "update": "gh:vebb374/hayase-extensions",
+    "code": "gh:vebb374/hayase-extensions/nyaasi"
   },
   {
     "name": "Sukebei Nyaa",
@@ -28,7 +28,7 @@
       "JP"
     ],
     "icon": "https://sukebei.nyaa.si/static/favicon.png",
-    "update": "gh:hayase-app/extensions",
-    "code": "gh:hayase-app/extensions/sukebei-nyaa"
+    "update": "gh:vebb374/hayase-extensions",
+    "code": "gh:vebb374/hayase-extensions/sukebei-nyaa"
   }
 ]
